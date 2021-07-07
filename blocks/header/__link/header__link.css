@@ -1,0 +1,12 @@
+.header__link {
+    margin: 0;
+    text-decoration: none;
+    margin-right: 18px;
+    font-size: 17px;
+    line-height: 30px;
+    color: rgb(43, 40, 40);
+}
+
+.header__link:last-of-type {
+    margin-right: 0;
+}
