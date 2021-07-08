@@ -5,9 +5,23 @@
     font-family: 'Proxima Nova Bold';
     font-size: 16px;
     line-height: 30px;
-    color: rgb(43, 40, 40);
+    color: black;
 }
 
 .header__link:last-of-type {
     margin-right: 0;
 }
+
+.header__link:hover {
+    font-size: 20px;
+}
+
+
+  
+  /*@media screen and (max-width: 320px) {
+    .header__link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+  
+  }*/

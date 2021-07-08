@@ -6,4 +6,9 @@
     font-family: 'Proxima Nova Bold';
     font-size: 16px;
     line-height: 30px;
+    color: black;
+}
+
+.header__button-complain:hover {
+    font-size: 20px;
 }
