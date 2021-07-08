@@ -3,5 +3,5 @@
     max-width: 1440px;
     margin: 0 auto 0;
     /* выше для экранов больше 1440px отцентрировали весь контент */
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Proxima Nova', Arial, Helvetica, sans-serif;
 }

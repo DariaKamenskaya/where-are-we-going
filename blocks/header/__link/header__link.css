@@ -1,8 +1,9 @@
 .header__link {
     margin: 0;
     text-decoration: none;
-    margin-right: 18px;
-    font-size: 17px;
+    margin-right: 40px;
+    font-family: 'Proxima Nova Bold';
+    font-size: 16px;
     line-height: 30px;
     color: rgb(43, 40, 40);
 }

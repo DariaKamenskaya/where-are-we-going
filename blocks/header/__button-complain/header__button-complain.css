@@ -1,6 +1,9 @@
 .header__button-complain {
     margin: 0;
-    margin-right: 65px;
+    margin-right: 70px;
     border: none;
     background: none;
+    font-family: 'Proxima Nova Bold';
+    font-size: 16px;
+    line-height: 30px;
 }
