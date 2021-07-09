@@ -4,3 +4,26 @@
     margin-left: 79px;
     margin-top: 140px;
 }
+
+
+@media screen and (max-width: 636px) {
+    .people__headlines {
+      margin-top: 55px;
+      margin-left: 60px;
+    }
+  }
+
+  
+@media screen and (max-width: 400px) {
+    .people__headlines {
+      width: 80%;
+      margin-left: 40px;
+    }
+  }
+
+    
+@media screen and (max-width: 340px) {
+    .people__headlines {
+      margin: 55px auto 0;
+    }
+  }

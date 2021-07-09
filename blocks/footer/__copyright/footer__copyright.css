@@ -7,3 +7,9 @@
     font-size: 45px;
     line-height: 30px;
 }
+
+@media screen and (max-width: 636px) {
+    .footer__copyright {
+        font-size: 30px;
+    }
+  }

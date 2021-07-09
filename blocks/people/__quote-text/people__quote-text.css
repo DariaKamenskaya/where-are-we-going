@@ -11,3 +11,9 @@
         font-size: 13px;
     }
   }
+  
+@media screen and (max-width: 636px) {
+    .people__quote-text {
+        font-size: 15px;
+    }
+  }

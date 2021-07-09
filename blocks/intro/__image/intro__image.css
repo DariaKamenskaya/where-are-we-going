@@ -27,3 +27,37 @@
       height: 250px;
     }
   }
+
+    
+  @media screen and (max-width: 636px) {
+    .intro__image {
+      height: 200px;
+      margin-right: 60px;
+    }
+  }
+
+      
+  @media screen and (max-width: 600px) {
+    .intro__image {
+      height: 180px;
+      margin-right: 20px;
+    }
+  }
+
+        
+  @media screen and (max-width: 400px) {
+    .intro__image {
+      margin-left: 60px;
+      height: 200px;
+      width: 50%;
+      margin-top: 40px;
+    }
+  }
+
+  
+        
+  @media screen and (max-width: 340px) {
+    .intro__image {
+      margin: 40px auto 0;
+    }
+  }

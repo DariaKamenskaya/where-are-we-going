@@ -2,5 +2,11 @@
     margin: 0;
     background-color: white;
     display: flex;
-    justify-content: column;
+    flex-direction: row;
 }
+
+@media screen and (max-width: 450px) {
+    .intro {
+      flex-direction: column-reverse;
+    }
+  }

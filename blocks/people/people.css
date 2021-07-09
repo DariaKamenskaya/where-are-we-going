@@ -4,3 +4,10 @@
     margin-bottom: 100px;
     padding: 0;
 }
+
+@media screen and (max-width: 636px) {
+    .people {
+      margin-top: 0px;
+      margin-bottom: 50px;
+    }
+  }

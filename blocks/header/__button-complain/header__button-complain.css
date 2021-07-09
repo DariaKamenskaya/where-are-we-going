@@ -12,3 +12,18 @@
 .header__button-complain:hover {
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 600px) {
+    .header__button-complain {
+      margin-left: 60px;
+    }
+  }
+
+      
+@media screen and (max-width: 400px) {
+    .header__button-complain  {
+      margin-left: 0px;
+      margin-right: 40px;
+    }
+  }

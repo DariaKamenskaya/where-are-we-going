@@ -9,5 +9,30 @@
 @media screen and (max-width: 900px) {
     .intro__headlines {
       margin-top: 107px;
+      margin-left: 60px;
+    }
+  }
+
+    
+@media screen and (max-width: 455px) {
+    .intro__headlines {
+      margin-left: 30px;
+    }
+  }
+
+      
+@media screen and (max-width: 400px) {
+    .intro__headlines {
+      margin-left: 60px;
+      margin-top: 50px;
+      width: 80%;
+    }
+  }
+
+        
+@media screen and (max-width: 340px) {
+    .intro__headlines {
+      margin: 50px auto 0;
+      width: 90%;
     }
   }

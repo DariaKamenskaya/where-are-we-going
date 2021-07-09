@@ -5,10 +5,18 @@
     width: 18%;
 }
 
-/*.people__article:last-of-type {
-    margin-right: 0px;
+  
+@media screen and (max-width: 636px) {
+    .people__article {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+  }
+
+.people__article:last-of-type {
+    margin-bottom: 0px;
 }
 
-.people__article:first-of-type {
+/*.people__article:first-of-type {
     margin-left: 60px;
 }*/

@@ -5,3 +5,12 @@ display: flex;
 justify-content: space-between;
 background-color: white;
 }
+
+@media screen and (max-width: 600px) {
+    .header {
+      /*flex-direction: column;*/
+      /*justify-content: flex-start;*/
+      align-items: flex-start;
+      margin-top: 25px;
+    }
+  }
