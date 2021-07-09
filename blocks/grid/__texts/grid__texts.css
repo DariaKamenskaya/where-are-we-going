@@ -1,0 +1,7 @@
+.grid__texts {
+    margin: 0;
+    height: 67%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
