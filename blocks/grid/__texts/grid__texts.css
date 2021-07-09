@@ -5,3 +5,23 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+
+@media screen and (max-width: 1026px) {
+    .grid__texts {
+      height: 70%;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    .grid__texts {
+      height: 78%;
+    }
+  }
+
+  @media screen and (max-width: 636px) {
+    .grid__texts {
+      margin-bottom: 60px;
+      margin-left: 30px;
+      height: 70%;
+    }
+  }

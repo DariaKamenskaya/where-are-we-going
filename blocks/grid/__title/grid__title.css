@@ -7,3 +7,29 @@
     font-size: 45px;
     line-height: 30px;
 }
+
+
+@media screen and (max-width: 1251px) {
+    .grid__title {
+      font-size: 30px;
+    }
+  }
+
+  @media screen and (max-width: 1025px) {
+    .grid__title {
+        margin-top: 50px;
+    }
+  }
+
+  @media screen and (max-width: 870px) {
+    .grid__title {
+        margin-top: 25px;
+    }
+  }
+
+  @media screen and (max-width: 636px) {
+    .grid__title {
+        margin: 25px auto 0;
+        margin-left: 30px;
+    }
+  }

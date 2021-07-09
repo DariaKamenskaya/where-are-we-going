@@ -12,7 +12,7 @@
 @import url(../blocks/intro/__headlines/intro__headlines.css);
 @import url(../blocks/headline/headline.css);
 @import url(../blocks/intro/__headline/intro__headline.css);
-@import url(../blocks/intro/__link/intro__link.css);
+@import url(../blocks/link/link.css);
 @import url(../blocks/intro/__image/intro__image.css);
 /* block "grid" */
 @import url(../blocks/grid/grid.css);

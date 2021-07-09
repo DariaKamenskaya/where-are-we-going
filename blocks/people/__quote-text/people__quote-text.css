@@ -5,3 +5,9 @@
     font-size: 15px;
     line-height: 30px;
 }
+
+@media screen and (max-width: 900px) {
+    .people__quote-text {
+        font-size: 13px;
+    }
+  }

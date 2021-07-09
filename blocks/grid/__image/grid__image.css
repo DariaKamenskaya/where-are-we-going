@@ -1,6 +1,7 @@
 .grid__image {
     margin: 0;
     width: 100%;
-    object-fit: contain;
-    object-position: 0 0;
+    object-fit: cover;
+    /*object-fit: contain;
+    object-position: 0 0;*/
 } 

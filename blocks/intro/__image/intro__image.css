@@ -8,3 +8,22 @@
     top: 87px;
     right: 175px;*/
 }
+
+@media screen and (max-width: 1101px) {
+    .intro__image {
+      height: 350px;
+    }
+  }
+
+  @media screen and (max-width: 1026px) {
+    .intro__image {
+      height: 300px;
+    }
+  }
+
+  
+  @media screen and (max-width: 900px) {
+    .intro__image {
+      height: 250px;
+    }
+  }

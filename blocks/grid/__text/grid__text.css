@@ -13,3 +13,31 @@
 .grid__text:last-of-type {
     margin-bottom: 0px;
 }
+
+
+@media screen and (max-width: 1251px) {
+    .grid__text {
+      font-size: 13px;
+    }
+  }
+
+  @media screen and (max-width: 1101px) {
+    .grid__text {
+        width: 80%;
+    }
+  }
+
+  @media screen and (max-width: 870px) {
+    .grid__text {
+      font-size: 11px;
+      margin-bottom: 10px;
+    }
+  }
+
+  @media screen and (max-width: 636px) {
+    .grid__text {
+      margin: 0 auto 7px;
+      width: 100%;
+    }
+  }
+

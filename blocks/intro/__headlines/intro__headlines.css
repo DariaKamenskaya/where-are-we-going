@@ -4,3 +4,10 @@
     margin-left: 79px;
     margin-top: 207px;
 }
+
+  
+@media screen and (max-width: 900px) {
+    .intro__headlines {
+      margin-top: 107px;
+    }
+  }

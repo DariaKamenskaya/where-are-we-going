@@ -1,0 +1,47 @@
+.link {
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Proxima Nova Bold';
+    font-size: 42px;
+    line-height: 44px;
+    color: black;
+    /*position: absolute;
+    top: 268px;
+    left: 79px;*/
+}
+
+.link:hover {
+    font-size: 46px;
+}
+
+
+@media screen and (max-width: 1251px) {
+    .link {
+      font-size: 35px;
+    }
+
+    .link:hover {
+        font-size: 37px;
+    }
+  }
+
+  @media screen and (max-width: 1026px) {
+    .link {
+      font-size: 30px;
+    }
+
+    .link:hover {
+        font-size: 32px;
+    }
+  }
+  
+
+  @media screen and (max-width: 900px) {
+    .link {
+      font-size: 25px;
+    }
+
+    .link:hover {
+        font-size: 27px;
+    }
+  }

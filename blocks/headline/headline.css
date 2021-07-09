@@ -8,5 +8,10 @@
     /*position: absolute;
     top: 207px;
     left: 76px;*/
-
 }
+
+@media screen and (max-width: 1026px) {
+    .headline {
+      font-size: 12px;
+    }
+  }
