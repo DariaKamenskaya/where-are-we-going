@@ -29,3 +29,6 @@
 @import url(../blocks/people/__article/people__article.css);
 @import url(../blocks/people/__quote-title/people__quote-title.css);
 @import url(../blocks/people/__quote-text/people__quote-text.css);
+/* block "footer" */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

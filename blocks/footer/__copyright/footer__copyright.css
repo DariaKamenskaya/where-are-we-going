@@ -1,0 +1,9 @@
+.footer__copyright {
+    margin: 0;
+    margin-top: 23%;
+    margin-bottom: 23%;
+    color: black;
+    font-family: 'Proxima Nova Bold';
+    font-size: 45px;
+    line-height: 30px;
+}
