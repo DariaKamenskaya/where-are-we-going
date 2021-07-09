@@ -21,6 +21,7 @@
 @import url(../blocks/grid/__title/grid__title.css);
 @import url(../blocks/grid/__texts/grid__texts.css);
 @import url(../blocks/grid/__text/grid__text.css);
+@import url(../blocks/scale/scale.css);
 @import url(../blocks/grid/__image/grid__image.css);
 /* block "people" */
 @import url(../blocks/people/people.css);

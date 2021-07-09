@@ -1,0 +1,13 @@
+@keyframes scale-2 {
+    from {
+    transform: scale(0.95);
+    }
+    to {
+    transform: scale(1.0); 
+    }
+  }
+
+  
+.scale {
+    animation: scale-2  2s linear infinite normal forwards;
+  }

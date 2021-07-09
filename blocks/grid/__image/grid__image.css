@@ -5,3 +5,8 @@
     /*object-fit: contain;
     object-position: 0 0;*/
 } 
+
+
+.grid__image_type_scale:hover .grid__image {
+    transform: scale(1.2);
+  }
