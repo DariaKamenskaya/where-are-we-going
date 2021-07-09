@@ -10,6 +10,7 @@
 /* block "intro" */
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__headlines/intro__headlines.css);
+@import url(../blocks/headline/headline.css);
 @import url(../blocks/intro/__headline/intro__headline.css);
 @import url(../blocks/intro/__link/intro__link.css);
 @import url(../blocks/intro/__image/intro__image.css);
@@ -22,3 +23,9 @@
 @import url(../blocks/grid/__text/grid__text.css);
 @import url(../blocks/grid/__image/grid__image.css);
 /* block "people" */
+@import url(../blocks/people/people.css);
+@import url(../blocks/people/__headlines/people__headlines.css);
+@import url(../blocks/people/__quote/people__quote.css);
+@import url(../blocks/people/__article/people__article.css);
+@import url(../blocks/people/__quote-title/people__quote-title.css);
+@import url(../blocks/people/__quote-text/people__quote-text.css);

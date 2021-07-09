@@ -1,0 +1,8 @@
+.people__quote {
+    margin: 0 auto 0;
+    margin-top: 125px;
+    margin-bottom: 125px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
