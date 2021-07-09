@@ -1,2 +1,7 @@
-# where-are-we-going
-website about trips
+# Проект: Куда же поехать? (соревнования)
+------
+Страница посвящена путешествиям и идеям, куда можно было бы поехать.  
+На странице использованы flex- и grid- технологии, адаптивная верстка, анимация.  
+Сайт : https://dariakamenskaya.github.io/where-are-we-going/index.html.
+
+
