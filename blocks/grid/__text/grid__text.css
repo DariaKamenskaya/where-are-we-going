@@ -1,0 +1,19 @@
+.grid__text {
+    margin: 0;
+    margin-top: 0px;
+    margin-left: 77px;
+    margin-bottom: 20px;
+    width: 60%;
+    color: black;
+    font-family: 'Proxima Nova Regular';
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.grid__text:first-of-type {
+    margin-top: 210px;
+}
+
+.grid__text:last-of-type {
+    margin-bottom: 0px;
+}

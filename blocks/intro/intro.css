@@ -1,5 +1,6 @@
 .intro {
     margin: 0;
     background-color: white;
-    position: relative;
+    display: flex;
+    justify-content: column;
 }

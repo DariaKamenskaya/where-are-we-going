@@ -1,8 +1,10 @@
 .intro__image {
     margin: 0;
+    margin-top: 87px;
+    margin-right: 175px;
     width: 28%;
     height: 400px;
-    position: absolute;
+    /*position: absolute;
     top: 87px;
-    right: 175px;
+    right: 175px;*/
 }
